@@ -1,4 +1,4 @@
-# SocketProgramming_ClientServerModel
+# SocketProgramming_ClientServerModel (TCP)
 
 Socket programming is a way of connecting two nodes on a network to commu-
 nicate with each other. Server forms the listener socket while the client reaches
